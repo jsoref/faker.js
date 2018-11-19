@@ -1,6 +1,6 @@
 # CHANGELOG
 
-See commit history on Github for change history
+See commit history on GitHub for change history
 http://github.com/marak/faker.js
 
 ## v4.0.0
@@ -79,7 +79,7 @@ http://github.com/marak/faker.js
 
 ## v3.0.0 - v2.0.0 - Missing
 
-  See commit history on Github for change history
+  See commit history on GitHub for change history
   http://github.com/marak/faker.js
 
 ## v2.0.0
