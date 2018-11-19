@@ -234,7 +234,7 @@ This will interpolate the format string with the value of methods `name.lastName
 
 ## Localization
 
-As of version `v2.0.0` faker.js has support for multiple localities.
+As of version `v2.0.0` faker.js has support for multiple locales.
 
 The default language locale is set to English.
 
