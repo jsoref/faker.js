@@ -57,7 +57,7 @@ console.log(faker.fake("{{name.lastName}}, {{name.firstName}} {{name.suffix}}"))
 // outputs: "Marks, Dean Sr."
 ```
 
-This will interpolate the format string with the value of methods `name.lastName()`, `name.firstName()`, and `name.suffix()`
+This will interpolate the format string with the value of methods `name.lastName()`, `name.firstName()`, and `name.suffix()`.
 
 ### JSDoc API Browser
 
