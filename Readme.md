@@ -323,7 +323,7 @@ console.log(firstRandom === secondRandom);
     npm install .
     make test
 
-You can view a code coverage report generated in coverage/lcov-report/index.html.
+You can view a code coverage report generated in [coverage/lcov-report/index.html](coverage/lcov-report/index.html).
 
 ## Projects Built with faker.js
 
