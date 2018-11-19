@@ -330,12 +330,12 @@ You can view a code coverage report generated in coverage/lcov-report/index.html
 ### Fake JSON Schema
 
 Use faker generators to populate JSON Schema samples.
-See: https://github.com/pateketrueke/json-schema-faker/
+See: [pateketrueke/json-schema-faker](https://github.com/pateketrueke/json-schema-faker/)
 
 ### CLI
 
 Run faker generators from Command Line.
-See: https://github.com/lestoni/faker-cli
+See: [lestoni/faker-cli](https://github.com/lestoni/faker-cli/)
 
 **Want to see your project added here? Let us know!**
 
